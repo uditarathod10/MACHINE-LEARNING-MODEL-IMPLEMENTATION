@@ -43,3 +43,7 @@ numpy
 pandas
 
 scikit-learn (for preprocessing, training, and evaluation)
+
+OUTPUT
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c72c5220-2f67-461e-88ef-b407eb7f0beb" />
